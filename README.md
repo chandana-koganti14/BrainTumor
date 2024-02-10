@@ -15,3 +15,4 @@ The following pre-processing was applied to each image:
 =====================================================================
 
 Provided by a Roboflow user
+![Screenshot](screenshot.png)
